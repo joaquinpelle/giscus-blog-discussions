@@ -1,2 +1,2 @@
 # giscus-blog-discussions
-Host repository for discussions on my [blog](https://joaquinpelle.github.io/blog/).
+Host repository for comments on my [blog](https://joaquinpelle.github.io/blog/).
